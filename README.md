@@ -1,0 +1,2 @@
+# Unix-Mknod
+This Perl module allows access to the device routines major()/minor()/makedev() that may or may not be macros in .h files.  It also allows access to the mknod system call.

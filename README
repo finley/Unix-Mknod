@@ -1,4 +1,5 @@
-# Unix-Mknod
+Unix-Mknod version 0.02
+=======================
 
 This module allows access to the device routines major()/minor()/makedev()
 that may or may not be macros in .h files.

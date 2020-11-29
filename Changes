@@ -1,5 +1,10 @@
 Revision history for Perl extension Unix::Mknod.
 
+0.05  Sun Nov 29 10:18:07 CST 2020 
+    - Explicitly include "<sys/sysmacros.h>" in Mknod.xs to accomodate a recent
+      change in compiler behavior.  -Brian Finley
+      Reference: https://sourceware.org/bugzilla/show_bug.cgi?id=19239
+
 0.04  Sat Dec 22 22:26:48 CST 2007
 	- Update Copyright for 2008
 	- Ignore make test running as non-root, for cpan compilance.

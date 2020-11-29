@@ -7,6 +7,7 @@ extern "C" {
 #include "XSUB.h"
 #include <unistd.h>
 #include <sys/types.h>
+#include <sys/sysmacros.h>
 
 #ifdef HAS_SYSMKDEV
 #include <sys/mkdev.h>

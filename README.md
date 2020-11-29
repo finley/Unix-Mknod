@@ -34,10 +34,11 @@ PLATFORMS
 
 This module has been tested out and verified on the following platforms:
 
+RHEL and friends (CentOS, etc.) 4, 6, 7, 8
+Ubuntu and friends (Debian, etc.) 2005 - 2020 model years
 FreeBSD-5.4-STABLE
 Mac OS X 10.3.9
 Solaris 8, 9, 10
-RedHat Linux EL 4.1
 AIX 4.3.3, 5.1
 
 
@@ -47,7 +48,7 @@ This module does not require any other modules or libraries.
 
 COPYRIGHT AND LICENCE
 
-Copyright (c) 2005  University of Illinois Board of Trustees
+Copyright (c) 2005-2008 University of Illinois Board of Trustees
 All rights reserved.
 
 Developed by: Campus Information Technologies and Educational Services,
